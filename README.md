@@ -72,8 +72,8 @@
 <h3>1️⃣ Clona este repositorio:</h3>
 
 <pre>
-  git clone https://github.com/tu-usuario/tu-repositorio.git
-  cd tu-repositorio
+  git clone https://github.com/ltortiz/app-text-predictor.git
+  cd app-text-predictor
 </pre>
 
 <h3>2️⃣ Instala las dependencias:</h3>
