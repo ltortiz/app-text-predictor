@@ -10,6 +10,15 @@
 
 <br>
 
+<h2>🎬 Demo</h2>
+
+<p>Para probar la aplicación de manera rápida, escanea el siguiente código QR o abre el enlace en la aplicación Expo Go.</p>
+
+🔗 <a href="https://expo.dev/preview/update?message=Merge%20branch%20'master'%20of%20https%3A%2F%2Fgithub.com%2Fltortiz%2Fapp-text-predictor&updateRuntimeVersion=1.0.0&createdAt=2025-02-01T04%3A37%3A47.650Z&slug=exp&projectId=02152449-1cc8-4ccb-8015-fd8267491fd4&group=ff6829ed-63e5-4807-a01a-059995a3b4a7">Ver Demo</a>
+<p>📱 Abre con Expo Go – Escanea el código QR o abre el enlace para probar la app en tu dispositivo móvil.</p>
+
+<br>
+
 <h2>🏗️ Tecnologías utilizadas</h2>
 
 <h3>📌 Frontend</h3>
